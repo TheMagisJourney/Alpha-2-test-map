@@ -1,0 +1,45 @@
+.App {
+  padding: 20px;
+}
+
+.view-toggle {
+  margin-bottom: 20px;
+}
+
+.view-toggle button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.view-toggle button.active {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+.church-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.church-item {
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.church-item h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.church-details {
+  padding: 10px;
+}
+
+.church-details h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
